@@ -48,6 +48,7 @@
    ```bash
    wasm-pack build --target web --out-dir src
    ```
+或者
 
    ```bash
    pnpm run build:wasm
